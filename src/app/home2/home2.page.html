@@ -1,0 +1,26 @@
+<ion-header>
+  <ion-toolbar color="primary">
+    <ion-buttons collapse="true" slot="start">
+      <ion-button (click)="go()">List</ion-button>
+    </ion-buttons>
+
+    <ion-buttons collapse="true" slot="start">
+      <ion-button (click)="go2()">Notepad</ion-button>
+    </ion-buttons>
+    <ion-buttons slot="end">
+      <ion-button (click)="addNote()">
+        <ion-icon slot="icon-only" name="add-circle-outline"></ion-icon>
+      </ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+  <ion-list>
+    <ion-item button detail *ngFor="let note of notesService.notes" [routerLink]="'/notes/' + note.id" routerDirection="forward">
+      <ion-label>{{ note.title }}</ion-label>
+    </ion-item>
+  </ion-list>
+
+</ion-content>
