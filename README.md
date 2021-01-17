@@ -43,8 +43,14 @@ uygualmada kullanılan komponentler
 
 
 aşağıdaki işlevler için iki tane daha sayfa oluşturuldu
+
+
 home2 (notların listesi) bu sayfaya ilk sayfadaki NOTPAD butonuna basılarak gidiliyor
+
+
 Detail (belirli bir notun ayrıntıları)
+
+
 Yapılan işlevler
 * Not oluşturma, silme ve düzenleme
 * Bu notları depodan kaydetme ve yükleme bunun için ionic storage kullanıldı
