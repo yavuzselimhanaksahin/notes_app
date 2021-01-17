@@ -10,6 +10,7 @@ Toplam üç sayfa var uygulamada
 açılan ilk sayfa  liste yapmak için kullanılıyor
 
 ilk sayfada kullanılan komponentler
+
 ⋅⋅* checkbox
 ⋅⋅* button(büyük add butonuna bir defa basılıp listeye yazı yazıldıktan sonra listenın sırasındaki artı butonuna basılıp yazılan listeye eklenir )
 ⋅⋅* icons
