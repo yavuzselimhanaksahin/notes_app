@@ -21,6 +21,10 @@ ilk sayfada kullanılan komponentler
 * ion-card liste elemanları için kullanıldı
 * liste elemanları aralarında yer değiştirebiliyor (ion-reorder kullanıldı)
 * liste elemanları kaydırılarak silinebiliyor (ion-item-sliding)
+* Sol yukarıdaki butonlar routing işlevlerini sağlıyor.(Sayfalar arasındaki geçiş)
+
+
+
 
 
 aşağıdaki işlevler için iki tane daha sayfa oluşturuldu
