@@ -79,48 +79,6 @@ Servis oluşturuldu ve görevleri
 * Not arrayini depodan yükleme
 
 
-Not alma için kullanılan komponentler
-* Buton
-* input
-* icon
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
