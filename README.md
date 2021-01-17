@@ -59,7 +59,8 @@ ionic g service services/Notes komutu ile servis oluşturuldu.
 
 
 Routing işlemleri
-notes/:id iki nokta üst üste ile ön eklenmiş yola: id ekleyerek: daha sonra yakalayabileceğimiz parametreleri kabul edecek bir yol oluşturdum.
+
+notes/:id iki nokta üst üste ile ön eklenmiş yola: id ekleyerek daha sonra yakalayabileceğimiz parametreleri kabul edecek bir yol oluşturdum.
 Bu, bir kullanıcı aşağıdaki URL'ye giderse anlamına gelir:
 http://localhost:8100/notes
 Burdaki id farklı notların farklı urlleri olması sağlandı. id değerini alabileceğiz. Bu özelliği, daha sonra kullanıcıya uygun notu görüntülemek için kullandım.
