@@ -14,7 +14,10 @@ Gerekli yüklemeler
 Toplam üç sayfa var uygulamada
 
 açılan ilk sayfa  liste yapmak için kullanılıyor
-ikinci sayfa not almal için
+
+ikinci sayfa not almak için
+
+
 üçüncü sayfa alınan notların detayları için
 
 uygualmada kullanılan komponentler
