@@ -20,7 +20,7 @@ ikinci sayfa not almak için
 
 üçüncü sayfa alınan notların detayları için
 
-uygualmada kullanılan komponentler
+uygulamada kullanılan komponentler
 
 * checkbox
 * button(büyük add butonuna bir defa basılıp listeye yazı yazıldıktan sonra listenın sırasındaki artı butonuna basılıp yazılan listeye eklenir )
