@@ -3,6 +3,7 @@
 uygulama not alma ve liste yapma uygulaması
 
 ⋅⋅* npm install firebase @angular/fire --save
+
 ⋅⋅* npm install @ionic/storage --save
 
 Toplam üç sayfa var uygulamada
