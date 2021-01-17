@@ -27,7 +27,7 @@ aşağıdaki işlevler için iki tane daha sayfa oluşturuldu
 home2 (notların listesi) bu sayfaya ilk sayfadaki NOTPAD butonuna basılarak gidiliyor
 Detail (belirli bir notun ayrıntıları)
 Yapılan işlevler
-..* Not oluşturma, silme ve düzenleme
+* Not oluşturma, silme ve düzenleme
 ..* Bu notları depodan kaydetme ve yükleme bunun için ionic storage kullanıldı
 ..* Notların bir listesini görüntüleme
 ..* Not ayrıntılarını görüntüleme yapıldı
@@ -45,9 +45,4 @@ ionic g service services/Notes
 
 
 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+
