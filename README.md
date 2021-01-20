@@ -141,7 +141,7 @@ Başlık belirleme
 
 ![Screenshot from 2021-01-17 15-42-59](https://user-images.githubusercontent.com/43969712/104844360-e56d5b80-58e0-11eb-9821-f2132c71ffd6.png)
 
-Note detay sayfası
+Note detay sayfası(eklenen başlığın içeriğinin yazıldığı yer)
 
 ![Screenshot from 2021-01-17 15-43-13](https://user-images.githubusercontent.com/43969712/104844354-e3a39800-58e0-11eb-8fb7-4ddc6f53fdee.png)
 
