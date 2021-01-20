@@ -25,22 +25,19 @@ ikinci sayfa not almak için
 uygulamada kullanılan komponentler
 
 * checkbox
-* button(büyük add butonuna bir defa basılıp listeye yazı yazıldıktan sonra listenın sırasındaki artı butonuna basılıp yazılan listeye eklenir )
+* button
 * icons
 * toggle(uygulamayı dark moda geçirmek için kullanıldı)
 * tarih için JavaScript Date () işlevi çağırıldı
-* liste firebase ile bağlantılı
-* ion-card liste elemanları için kullanıldı
-* liste elemanları aralarında yer değiştirebiliyor (ion-reorder kullanıldı)
-* liste elemanları kaydırılarak silinebiliyor (ion-item-sliding)
-* Sol yukarıdaki butonlar routing işlevlerini sağlıyor.(Sayfalar arasındaki geçiş)
+* card
+* reorder
+* routing
 * input 
-* ion-alert kullanıldı
-* ion-content
-* ion-list
-* ion-back-button
-* ion-textarea
-* ion-title
+* alert
+* content
+* list
+* toolbar
+* item
 
 
 
