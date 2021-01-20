@@ -121,5 +121,4 @@ Servis oluşturuldu ve görevleri
 ![Screenshot from 2021-01-17 15-43-13](https://user-images.githubusercontent.com/43969712/104844354-e3a39800-58e0-11eb-8fb7-4ddc6f53fdee.png)
 ![Screenshot from 2021-01-17 15-37-31](https://user-images.githubusercontent.com/43969712/104844361-e56d5b80-58e0-11eb-8a84-3aab33ad9ec8.png)
 ![Screenshot from 2021-01-17 15-37-45](https://user-images.githubusercontent.com/43969712/104844362-e605f200-58e0-11eb-8dae-cbbaa2123d24.png)
-
 ![Screenshot from 2021-01-17 15-36-52](https://user-images.githubusercontent.com/43969712/104844364-e69e8880-58e0-11eb-9cdb-bfa7f1c026d9.png)
