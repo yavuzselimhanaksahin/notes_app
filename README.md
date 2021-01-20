@@ -116,9 +116,10 @@ Servis oluşturuldu ve görevleri
 ![Screenshot from 2021-01-17 15-37-06](https://user-images.githubusercontent.com/43969712/104844363-e605f200-58e0-11eb-8460-4bb6c0baa7e2.png)
 ![Screenshot from 2021-01-17 15-36-58](https://user-images.githubusercontent.com/43969712/104844356-e43c2e80-58e0-11eb-9a99-3647855fc574.png)
 ![Screenshot from 2021-01-17 15-36-47](https://user-images.githubusercontent.com/43969712/104844357-e4d4c500-58e0-11eb-8247-9c7ee93e103e.png)
+![Screenshot from 2021-01-17 15-36-52](https://user-images.githubusercontent.com/43969712/104844364-e69e8880-58e0-11eb-9cdb-bfa7f1c026d9.png)
 ![Screenshot from 2021-01-17 15-36-43](https://user-images.githubusercontent.com/43969712/104844358-e4d4c500-58e0-11eb-8513-347e4602e7ba.png)
 ![Screenshot from 2021-01-17 15-42-59](https://user-images.githubusercontent.com/43969712/104844360-e56d5b80-58e0-11eb-9821-f2132c71ffd6.png)
 ![Screenshot from 2021-01-17 15-43-13](https://user-images.githubusercontent.com/43969712/104844354-e3a39800-58e0-11eb-8fb7-4ddc6f53fdee.png)
 ![Screenshot from 2021-01-17 15-37-31](https://user-images.githubusercontent.com/43969712/104844361-e56d5b80-58e0-11eb-8a84-3aab33ad9ec8.png)
 ![Screenshot from 2021-01-17 15-37-45](https://user-images.githubusercontent.com/43969712/104844362-e605f200-58e0-11eb-8dae-cbbaa2123d24.png)
-![Screenshot from 2021-01-17 15-36-52](https://user-images.githubusercontent.com/43969712/104844364-e69e8880-58e0-11eb-9cdb-bfa7f1c026d9.png)
+
