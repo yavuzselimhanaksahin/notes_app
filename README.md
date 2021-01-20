@@ -39,7 +39,9 @@ uygulamada kullanılan komponentler
 * toolbar
 * item
 
+Liste için olan sayfa:
 
+home
 
 Notepad için olan sayfalar:
 
