@@ -44,7 +44,7 @@ uygulamada kullanılan komponentler
 
 
 
-aşağıdaki işlevler için iki tane daha sayfa oluşturuldu
+Notepad için olan sayfalar:
 
 
 home2 (notların listesi) bu sayfaya ilk sayfadaki NOTPAD butonuna basılarak gidiliyor
