@@ -9,7 +9,8 @@ Gerekli yüklemeler
 
 
 ana sayfada liste için firebase kullanıldı
-Notepad için ionic storage kullanıldı
+
+Notepad için ise ionic storage kullanıldı
 
 
 Toplam üç sayfa var uygulamada
